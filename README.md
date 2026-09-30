@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html Lang="en">
   <head>
     <Charset></Charset>
     <title>Hello World<title>
